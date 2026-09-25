@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Hello World — Designing for GenAI",
-  description: "Week 1 deliverable for Designing for GenAI, Fall 2026.",
+  title: "Caption board — Designing for GenAI",
+  description: "Captions stored in Supabase, rendered with Next.js. Designing for GenAI, Fall 2026.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
